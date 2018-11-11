@@ -631,7 +631,7 @@ select {
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   border:solid black;
-  border width: thin;
+  border-width: thin;
 }
 
 .cl-custom-select {
